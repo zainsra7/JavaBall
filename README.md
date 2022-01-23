@@ -1,5 +1,5 @@
 # JavaBall
-JavaBall project completed in 2 days as an entry level test for MSc Computing Science at Univerity of Glasgow'18. 
+JavaBall project, an entry level test for MSc Computing Science at Univerity of Glasgow'18. 
 This test was conducted during Week 0, and based on the result of the test a student was either allowed to progress into CS+ programme
 or a conversion IT/SD programme.
 
